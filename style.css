@@ -1,21 +1,5 @@
-.bodycolor {
-    background-color: #B3B3B3;
-}
-.h4-1 {
-    color: #000000;
-}
-.h4-2 {
-    color: #2400FF;
-}
-.h4-3 {
-    color: #00461C;
-}
-.p1 {
-    color: #FF0000;
-}
-.p2 {
-    color: #FF2929;
-}
-.p3 {
-    color: #000000;
+body {
+    background-image: url(foni1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
